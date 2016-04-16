@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fecf7b4-b9b8-436e-9784-3682044690c4" name="Default" comment="chapter10&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Cycles16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex11Interface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex18.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex19.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Ex9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/OtherClass5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Outer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Outer3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Sequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/Sequence4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/firstpackage/Ex6Inteface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/secondpackage/Ex6Base.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter10/thirdpackage/Ex6Son.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -62,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ex19.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ex19.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter10/Ex19.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -138,8 +129,19 @@
         <option value="$PROJECT_DIR$/src/chapter10/Cycles16.java" />
         <option value="$PROJECT_DIR$/src/chapter10/Ex18.java" />
         <option value="$PROJECT_DIR$/src/chapter10/Ex19.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -157,7 +159,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -200,7 +202,24 @@
         </subPane>
       </pane>
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJavaSolutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJavaSolutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJavaSolutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -596,7 +615,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="741" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -604,7 +623,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1034,8 +1053,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/Ex19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
